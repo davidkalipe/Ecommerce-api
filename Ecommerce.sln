@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Core", "Ecommerce.Core\Ecommerce.Core.csproj", "{B4A534FC-4844-4DEB-B80A-0C82BFF94CE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Infrastructure", "Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj", "{2041D888-77B1-4CD2-B9CB-AAE524F47372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B4A534FC-4844-4DEB-B80A-0C82BFF94CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4A534FC-4844-4DEB-B80A-0C82BFF94CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4A534FC-4844-4DEB-B80A-0C82BFF94CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2041D888-77B1-4CD2-B9CB-AAE524F47372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2041D888-77B1-4CD2-B9CB-AAE524F47372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2041D888-77B1-4CD2-B9CB-AAE524F47372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2041D888-77B1-4CD2-B9CB-AAE524F47372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
