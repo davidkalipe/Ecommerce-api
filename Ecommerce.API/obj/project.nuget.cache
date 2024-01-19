@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VexLEtzhK7sBcS1Ttq5K5uTu53pW0COLM4LzqYkrx0E2NcKAcYT7FLhiP9X3quMcTk13SMQNJa8eQwTAEZgCRg==",
+  "dgSpecHash": "0uEr3A6t7x/+l5Ajcip8tBxaf16eR/3QSdbD8J2qXxlfm0hl3OSWJL2/NlQXcqf5n5K1zrzhbLcQ2qsV41IMWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.API\\Ecommerce.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kalip\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\kalip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "C:\\Users\\kalip\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\kalip\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

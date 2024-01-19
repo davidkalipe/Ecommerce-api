@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Application\\Ecommerce.Application.csproj": {
                 "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Application\\Ecommerce.Application.csproj"
+              },
+              "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj"
               }
             }
           }
@@ -122,8 +125,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj"
+              "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\Ecommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\Ecommerce.Core.csproj"
               }
             }
           }
@@ -270,8 +273,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\Ecommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\Ecommerce.Core.csproj"
+              "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+                "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Application\\Ecommerce.Application.csproj"
               }
             }
           }
@@ -286,6 +289,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.11, )"
