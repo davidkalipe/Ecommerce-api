@@ -7,9 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Interfaces\" />
       <Folder Include="MediatRManagement\" />
-      <Folder Include="Services\" />
     </ItemGroup>
 
     <ItemGroup>
