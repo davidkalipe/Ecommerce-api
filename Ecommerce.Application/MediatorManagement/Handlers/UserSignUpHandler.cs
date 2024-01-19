@@ -1,8 +1,8 @@
 ﻿using Ecommerce.Application.Interfaces;
-using Ecommerce.Application.MediatRManagement.Commands;
+using Ecommerce.Application.MediatorManagement.Commands;
 using MediatR;
 
-namespace Ecommerce.Application.MediatRManagement.Handlers;
+namespace Ecommerce.Application.MediatorManagement.Handlers;
 
 public class UserSignUpHandler : IRequestHandler<UserSignUpCommand>
 {
