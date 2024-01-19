@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="MediatRManagement\Handlers\" />
       <Folder Include="MediatRManagement\Queries\" />
     </ItemGroup>
 
