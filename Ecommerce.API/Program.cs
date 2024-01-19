@@ -1,3 +1,4 @@
+using Ecommerce.Application;
 using Ecommerce.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<EcommerceDbContext>(opt =>
     opt.UseNpgsql(builder.Configuration.GetConnectionString("EcommerceDbConnection")));
+builder.Services.AddApplication();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
