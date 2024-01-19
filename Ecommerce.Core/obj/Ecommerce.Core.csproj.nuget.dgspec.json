@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Core\\Ecommerce.Core.csproj": {}
+    "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\Ecommerce.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Core\\Ecommerce.Core.csproj": {
+    "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\Ecommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Core\\Ecommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\Ecommerce.Core.csproj",
         "projectName": "Ecommerce.Core",
-        "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Core\\Ecommerce.Core.csproj",
+        "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\Ecommerce.Core.csproj",
         "packagesPath": "C:\\Users\\kalip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kalip\\AppData\\Roaming\\NuGet\\NuGet.Config",

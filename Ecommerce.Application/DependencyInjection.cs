@@ -1,6 +1,11 @@
-﻿namespace Ecommerce.Application;
+﻿using Microsoft.Extensions.DependencyInjection;
 
-public class DependencyInjection
+namespace Ecommerce.Application;
+
+public static class DependencyInjection
 {
-    
+    public static IServiceCollection AddApplication(this IServiceCollection services)
+    {
+        return services;
+    }
 }
