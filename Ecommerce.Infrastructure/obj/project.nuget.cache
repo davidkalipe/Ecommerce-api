@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3cNGss1by/3wbyNUl1SOpKX08eGGpZLFmHDWWqgrhT4PZ+ckT2nIMEMbynaqOnF82XbBCwB4vo7ZLQg6rz33qA==",
+  "dgSpecHash": "uxUKlA07EwNKFxOhd0Uslja+E5sKcLdovE1XONsw5kogG7r+AYl3z7dvEJQ0cKuJkiINjDNTEAKcq2CxmmlSEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalip\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\kalip\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",

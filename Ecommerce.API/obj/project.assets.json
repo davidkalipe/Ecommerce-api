@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+      "projectUniqueName": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.API\\Ecommerce.API.csproj",
       "projectName": "Ecommerce.API",
-      "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+      "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.API\\Ecommerce.API.csproj",
       "packagesPath": "C:\\Users\\kalip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.API\\obj\\",
+      "outputPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kalip\\AppData\\Roaming\\NuGet\\NuGet.Config",

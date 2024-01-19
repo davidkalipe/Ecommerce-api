@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
       "projectName": "Ecommerce.Infrastructure",
-      "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\kalip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce\\Ecommerce.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\kalip\\RiderProjects\\Ecommerce-api\\Ecommerce.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kalip\\AppData\\Roaming\\NuGet\\NuGet.Config",
